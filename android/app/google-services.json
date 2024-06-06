@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457707596927",
+    "project_id": "finearts-25dae",
+    "storage_bucket": "finearts-25dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457707596927:android:9742cb2788c3b42b45634a",
+        "android_client_info": {
+          "package_name": "com.example.finearts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYK3Wz16_f6aLdV4jzQAcyvCQsSt4Tjvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
